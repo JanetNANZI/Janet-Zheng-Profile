@@ -3,7 +3,7 @@
 ## Profile Summary
 With over 7 years of dynamic industry experience as a Marketing Analytics Leader, I excel at bridging the gap between advanced data science techniques and strategic marketing objectives. My expertise lies in enhancing post-campaign reporting accuracy, driving process automation efficiency, and optimizing marketing ROI, including leading projects that have generated $8 million+ in annual revenue.
 
-In addition to my industry accomplishments, I have over 5 years of university teaching experience in marketing analytics, where I developed and delivered comprehensive courses designed to prepare students for careers in data-driven marketing. My academic contributions are further evidenced by 6 peer-reviewed publications on topics like social innovation modeling, demonstrating my ability to combine theoretical rigor with practical applications.
+In addition to my industry accomplishments, I have over 6 years of university teaching experience in marketing analytics, where I developed and delivered comprehensive courses designed to prepare students for careers in data-driven marketing. My academic contributions are further evidenced by 7 peer-reviewed publications on topics like social innovation modeling, demonstrating my ability to combine theoretical rigor with practical applications.
 
 I am passionate about leveraging data to solve complex problems, fostering team growth, and sharing knowledge through both industry and academic platforms.
 
