@@ -19,9 +19,9 @@ I am passionate about leveraging data to solve complex problems, fostering team 
 ## Publications
 1. Antonios Saravanos, Dongnanzi Zheng, and Stavros Zervoudakis. 2022. Measuring Consumer Perceived Warm-Glow for Technology Adoption Modeling. In Proceedings of the 8th International Conference on e-Society, e-Learning and e-Technologies (ICSLT '22). Association for Computing Machinery, New York, NY, USA, 95–102. https://doi.org/10.1145/3545922.3545938
    
-2.Saravanos, A., Zervoudakis, S., & Zheng, D. (2022). Extending the Technology Acceptance Model 3 to Incorporate the Phenomenon of Warm-Glow. Information, 13(9), 429. https://doi.org/10.3390/info13090429
+2. Saravanos, A., Zervoudakis, S., & Zheng, D. (2022). Extending the Technology Acceptance Model 3 to Incorporate the Phenomenon of Warm-Glow. Information, 13(9), 429. https://doi.org/10.3390/info13090429
 
-3.Saravanos, A., Zheng, D., Zervoudakis, S., Delfino, D. (2021). Exploring the Effect of Resolution on the Usability of Locimetric Authentication. In: Stephanidis, C., et al. HCI International 2021 - Late Breaking Papers: Design and User Experience. HCII 2021. Lecture Notes in Computer Science(), vol 13094. Springer, Cham. https://doi.org/10.1007/978-3-030-90238-4_27
+3. Saravanos, A., Zheng, D., Zervoudakis, S., Delfino, D. (2021). Exploring the Effect of Resolution on the Usability of Locimetric Authentication. In: Stephanidis, C., et al. HCI International 2021 - Late Breaking Papers: Design and User Experience. HCII 2021. Lecture Notes in Computer Science(), vol 13094. Springer, Cham. https://doi.org/10.1007/978-3-030-90238-4_27
 
 4. Saravanos, A., Zheng, D., & Zervoudakis, S. (2022). The Effect of Warm-Glow on User Perceived Usability and Intention to Adopt Technology: Extending UTAUT2. arXiv preprint arXiv:2210.01242.
   
