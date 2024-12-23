@@ -8,13 +8,13 @@ In addition to my industry accomplishments, I have over 5 years of university te
 I am passionate about leveraging data to solve complex problems, fostering team growth, and sharing knowledge through both industry and academic platforms.
 
 ## Courses Taught
-### Adjunct Instructor - New York University, New York, NY	(01/2019 – present)
+### Adjunct Instructor - New York University, New York, NY	(01/2019 – present) - undergraduate level courses
 - Marketing Analytics
 - Visual Analytics (Tableau)
 - Data Visualization (PowerBI)
 - Special Topic: Data Manipulation in Python
-### Adjunct Instructor - Columbia University, New York, NY	(01/2021 – 05/2022)
-- Introduction of Python in Data Science
+### Adjunct Instructor - Columbia University, New York, NY	(01/2021 – 05/2022) - graduate level courses
+- Intro to Python for Data Science
 
 ## Peer-Reviewed Publications
 1. Antonios Saravanos, Dongnanzi Zheng, and Stavros Zervoudakis. 2022. Measuring Consumer Perceived Warm-Glow for Technology Adoption Modeling. In Proceedings of the 8th International Conference on e-Society, e-Learning and e-Technologies (ICSLT '22). Association for Computing Machinery, New York, NY, USA, 95–102. https://doi.org/10.1145/3545922.3545938
