@@ -16,7 +16,7 @@ I am passionate about leveraging data to solve complex problems, fostering team 
 ### Adjunct Instructor - Columbia University, New York, NY	(01/2021 – 05/2022)
 - Introduction of Python in Data Science
 
-## Publications
+## Peer-Reviewed Publications
 1. Antonios Saravanos, Dongnanzi Zheng, and Stavros Zervoudakis. 2022. Measuring Consumer Perceived Warm-Glow for Technology Adoption Modeling. In Proceedings of the 8th International Conference on e-Society, e-Learning and e-Technologies (ICSLT '22). Association for Computing Machinery, New York, NY, USA, 95–102. https://doi.org/10.1145/3545922.3545938
    
 2. Saravanos, A., Zervoudakis, S., & Zheng, D. (2022). Extending the Technology Acceptance Model 3 to Incorporate the Phenomenon of Warm-Glow. Information, 13(9), 429. https://doi.org/10.3390/info13090429
